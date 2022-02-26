@@ -1,0 +1,27 @@
+---
+title: "index"
+author: "Rim Wolde"
+date: "2/25/2022"
+output: html_document
+---
+
+#an example of R code chunk
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+Introduction:
+
+For this assignment, I was hoping to point out the differences between races and was also hoping to show how incarceration rates as well as the injustice that has been overflowing our country since the start of its existence I display these injustices in the following graphs.
+
+
+Summary Information:
+I started off by getting off some values from the data that would help my point come across such as the rates obataining the population of black people in jail from ages 15 to 64 and displaying that in the **state_by_year** variable. I then went on to create a **bar_year** that got the percentage of black people in prison and displayed that as well. I also created **d1** so I could get all the states and use that to try and display on the map the injustice that surrounds us.
+
+For my first line graph, I tried to show how the rate of incarcerations for people of color has gone only up in the past 30 years. Every single state or U.S. territory (DC) has risen and this is a good example of how things are not changing. While they might not be getting worse this comes to show how this is something that is not going to change anytime soon sadly.
+
+For my second graph, I decided to use a bar graph, using the percentage of black people that are in jail and showing you the top 10 counties in Washington that have them and also trying to show just how much there are. 
+
+Overall, I know this is not everything and some of the work could be improved but this was the best I could do. I have tried and gotten help all week but this is all I can do. Ill message you on teams!
+
